@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\obj\Debug\Fill.My.Tank.Common.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\Fill.My.Tank.Common.dll.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\Fill.My.Tank.Common.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\Fill.My.Tank.Common.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\FluentValidation.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\bin\Debug\FluentValidation.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\obj\Debug\Fill.My.Tank.Common.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\ESE\Fill.My.Tank\Common\Fill.My.Tank.Common\obj\Debug\Fill.My.Tank.Common.pdb
